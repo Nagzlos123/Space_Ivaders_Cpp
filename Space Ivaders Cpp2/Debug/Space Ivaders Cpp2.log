@@ -1,0 +1,17 @@
+﻿  Game.cpp
+c:\users\media\source\repos\space ivaders cpp2\space ivaders cpp2\objects\button.hpp(11): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\media\source\repos\space ivaders cpp2\space ivaders cpp2\objects\button.hpp(12): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\media\source\repos\space ivaders cpp2\space ivaders cpp2\objects\textbox.hpp(48): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\media\source\repos\space ivaders cpp2\space ivaders cpp2\objects\textbox.hpp(69): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\media\source\repos\space ivaders cpp2\space ivaders cpp2\objects\textbox.hpp(72): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\media\source\repos\space ivaders cpp2\space ivaders cpp2\objects\textbox.hpp(93): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\media\source\repos\space ivaders cpp2\space ivaders cpp2\game.cpp(217): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Space Ivaders Cpp2.vcxproj -> C:\Users\Media\source\repos\Space Ivaders Cpp2\Debug\Space Ivaders Cpp2.exe
