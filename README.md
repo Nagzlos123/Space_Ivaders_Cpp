@@ -1,5 +1,5 @@
 # Space_Ivaders_Cpp
-Space invaders like game created using C++ and SFML.
+Very simple space invaders like game created using C++ and SFML.
 ## Description
 
 ## Images
